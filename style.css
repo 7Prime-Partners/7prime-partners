@@ -1,0 +1,7 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    background-color: #080806;
+}
